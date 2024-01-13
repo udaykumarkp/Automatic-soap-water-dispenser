@@ -1,0 +1,12 @@
+git config --global user.email "udaykumarkp79@gmail.com"
+git config --global user.name "Rajumanju2000@"
+
+PS D:\Emertxe Course\ADV_C\Project\Steganography> git init
+Initialized empty Git repository in D:/Emertxe Course/ADV_C/Project/Steganography/.git/
+PS D:\Emertxe Course\ADV_C\Project\Steganography> git remote add origin https://github.com/udaykumarkp/LSB_IMAGE_STEGANOGRAPHY.git
+
+git add .
+
+git commit -m "LSB Image steganography"
+
+git push origin master
